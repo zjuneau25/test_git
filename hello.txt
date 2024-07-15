@@ -1,3 +1,7 @@
 first
 second
+<<<<<<< HEAD
 conflict local
+=======
+conflict
+>>>>>>> ba09088497192e2971402ffc7f29dcacf9b043a2
